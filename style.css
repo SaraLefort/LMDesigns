@@ -1,0 +1,44 @@
+h1 {
+	font-family: "Julius Sans One", sans-serif;
+	color: #FDE555;
+	text-shadow: 2px 2px 2px gray;
+	padding-left: 10px;
+
+}
+
+h2 {
+	font-family: "Julius Sans One", sans-serif;
+}
+
+
+h3 {
+	font-family: "Crimson Text", serif;
+	font-style: italic;
+	letter-spacing: 2px;
+}
+
+p {
+	font-family: "Crimson Text", serif;
+}
+
+.nav-pills {
+	font-family: "Julius Sans One", sans-serif;
+	color: #444A4F;
+}
+
+.nav-pills a {
+	color: #444A4F;
+}
+
+.nav-pills>li>a:hover {
+	background: #FDE555;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+	background: #444A4F;
+	color: white;
+}
+
+a:hover {
+	text-decoration: none;
+}
